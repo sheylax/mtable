@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Vue.JS Periodic Table of Elements</title>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400i,700'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <div id="app">
+    <a v-for="locale in locales" href="#"></a>
+    <hr />
+    <div v-for="period in table" class="period">
+        <div v-for="element in period.elements" class="element"
+             :class="element.group.toLowerCase()"
+             :style="{left: (100 / 18 * element.position) + '%'}"
+             >
+            <div class="atomic-number" v-if="element.number">{{ element.number }}</div>
+            <ul class="electrons" v-if="element.electrons">
+                <li v-for="electron in element.electrons">{{ electron }}</li>
+            </ul>
+            <div class="symbol" v-if="element.name">{{ element.small }}</div>
+            <div class="group" v-else>{{ element.small }}</div>
+            <div class="name" v-if="element.name">{{ element.name }}</div>
+            <div class="atomic-weight" v-if="element.molar">{{ element.molar }}</div>
+
+        </div>
+    </div>
+</div>
+  <script src='https://unpkg.com/vue@2.1.10/dist/vue.min.js'></script>
+<script src='https://unpkg.com/vue-resource@1.2.0/dist/vue-resource.min.js'></script>
+<script src='https://unpkg.com/vuex@2.1.2/dist/vuex.min.js'></script>
+<script src='https://unpkg.com/vuex-i18n@1.3.2/dist/vuex-i18n.min-min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>
