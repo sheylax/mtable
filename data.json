@@ -13,61 +13,42 @@
             },
 
             {
-                "name" : "Swapnil",
 
-                "occupation" : "Software Developer"
+                "title" : "Farland",
 
-            },
-
-            {
-
-                "name" : "Swapnil",
-
-                "occupation" : "Software Developer"
+                "subtitle" : "Technology",
+                
+                "slogan" : "Beyond Belife"
 
             },
 
-            {
+ {
 
-                "name" : "Swapnil",
+                "title" : "Farland",
 
-                "occupation" : "Software Developer"
-
-
-
-            },
-
-            {
-
-                "name" : "Swapnil",
-
-                "occupation" : "Software Developer"
-
-
+                "subtitle" : "Technology",
+                
+                "slogan" : "Beyond Belife"
 
             },
+     {
 
-            {
+                "title" : "Farland",
 
-                "name" : "Swapnil",
-
-                "occupation" : "Software Developer"
-
-
+                "subtitle" : "Technology",
+                
+                "slogan" : "Beyond Belife"
 
             },
+     {
 
-            {
+                "title" : "Farland",
 
-                "name" : "Swapnil",
-
-                "occupation" : "Software Developer"
-
-
+                "subtitle" : "Technology",
+                
+                "slogan" : "Beyond Belife"
 
             }
-
-
 
     ]
 
