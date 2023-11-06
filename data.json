@@ -1,6 +1,6 @@
-{
+[
 
-    "users" : [
+    
 
             {
 
@@ -8,7 +8,12 @@
 
                 "occupation" : "Software Developer"
 
+            },
 
+            {
+                "name" : "Swapnil",
+
+                "occupation" : "Software Developer"
 
             },
 
@@ -17,18 +22,6 @@
                 "name" : "Swapnil",
 
                 "occupation" : "Software Developer"
-
-
-
-            },
-
-            {
-
-                "name" : "Swapnil",
-
-                "occupation" : "Software Developer"
-
-
 
             },
 
@@ -80,4 +73,4 @@
 
 
 
-}
+
