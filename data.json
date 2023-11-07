@@ -1,10 +1,13 @@
 {
-    "terms": {
-
-        "title": "usage",
-
-        "message": "this is the usage message"
-
+    "titles": {
+        "title": "Farland",
+        "subtitle": "Technology",
+        "slogan": "Beyond Belife"
+    },
+    "navbarlinks": {
+        "home": {
+            "id": "",
+            "title": "Home"
+        }
     }
-
 }
