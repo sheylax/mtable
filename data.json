@@ -1,18 +1,11 @@
 {
+    "fetchdata": [
+        {
     "titles": {
-        "title": "Farland,",
+        "title": "Farland",
         "subtitle": "Technology",
         "slogan": "Beyond Belife"
-    },
-    "navbarlinks": {
-        "home" : {
-        "id": "",
-        "title": "Home"
-          },
-        "about" : {
-        "id": "",
-        "title": "About"
-          }
-    
     }
+}
+    ]
 }
