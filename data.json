@@ -1,5 +1,10 @@
-[
-{"title":"Farland",
-"subtitle":"Technology"
+{
+    "terms": {
+
+        "title": "usage",
+
+        "message": "this is the usage message"
+
+    }
+
 }
-]
