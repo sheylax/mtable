@@ -6,6 +6,16 @@
         "subtitle": "Technology",
         "slogan": "Beyond Belife"
     }
+    ]  ,
+    "navbarlinks": [
+        {
+        "id": "",
+        "title": "Home"
+         },
+        {
+        "id": "about",
+        "title": "About",
+         }
     ]  
         }
     
