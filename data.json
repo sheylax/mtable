@@ -1,9 +1,9 @@
 {
-    "titles": {
+    "titles": [
         "title": "Farland,",
         "subtitle": "Technology",
         "slogan": "Beyond Belife"
-    },
+    ],
     "navbarlinks":[
         "home" : [
           {
