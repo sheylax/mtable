@@ -4,7 +4,7 @@
         "subtitle": "Technology",
         "slogan": "Beyond Belife"
     },
-    "navbarlinks": {
+    "navbarlinks":[
         "home" : [
           {
         "id": "",
@@ -18,5 +18,5 @@
           }
         ]
     
-    }
+        ]
 }
