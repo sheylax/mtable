@@ -1,21 +1,22 @@
 {
-  "titles": [
-    {
-      "title": "Farland,",
-      "subtitle": "Technology",
-      "slogan": "Beyond Belife"
+    "titles": {
+        "title": "Farland,",
+        "subtitle": "Technology",
+        "slogan": "Beyond Belife"
+    },
+    "navbarlinks": {
+        "home" : [
+          {
+        "id": "",
+        "title": "Home"
+          }
+        ],
+        "about" : [
+          {
+        "id": "",
+        "title": "About"
+          }
+        ]
+    
     }
-  ],
-  "navbarlinks": [
-    {
-      "home" : {
-      "id": "",
-      "title": "Home"
-        },
-      "about" : {
-      "id": "",
-      "title": "About"
-        }
-      }
-      ]
 }
