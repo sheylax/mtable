@@ -1,14 +1,15 @@
-[{"_Comment":"TITLES",
-  "title":"Farland",
-  "subtitle":"Technology",
-  "slogan":"Beyond Belife"
-  },
-{"title":"Farland",
-  "subtitle":"Technology",
-  "slogan":"Beyond Belife"
-  },
-{"title":"Farland",
-  "subtitle":"Technology",
-  "slogan":"Beyond Belife"
+{
+  "Titles": [
+    {
+      "title": "Farland",
+      "subtitle": Technology,
+      "Slogan": "Beyond Bilife"
+    },
+    {
+      "title": "Farland",
+      "subtitle": Technology,
+      "Slogan": "Beyond Bilife"
+    }
+  ]
   }
-]
+
