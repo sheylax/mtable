@@ -5,21 +5,23 @@
         "slogan": "Beyond Belife"
     },
     "navbarlinks": {
+        "links" : [
        {
+           {
             "id": "",
             "title": "Home"
-    },
-     {
+       }
             "id": "about",
             "title": "About"
-    },
-    {
+   {
             "id": "work",
             "title": "Work"
-    },
-   {
+   }
+            {
             "id": "contact",
             "title": "Contact"
    }
+            ]
     }
+    
 }
