@@ -1,13 +1,15 @@
-[
+{
     "titles": {
         "title": "Farland,",
         "subtitle": "Technology",
         "slogan": "Beyond Belife"
     },
     "navbarlinks": {
+        "links" : {
         "title": "Farland,",
         "subtitle": "Technology",
        "slogan": "Beyond Belife"
     }
     
-]
+    }
+}
