@@ -5,9 +5,9 @@
         "slogan": "Beyond Belife"
     },
     "navbarlinks": {
-        {"title": "Farland,"},
-        {"subtitle": "Technology"},
-       {"slogan": "Beyond Belife"}
+        "title": "Farland,",
+        "subtitle": "Technology",
+       "slogan": "Beyond Belife"
     }
     
 }
